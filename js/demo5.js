@@ -16,7 +16,7 @@
 
 	// Loading a texture
 	var img = new Image();
-	img.src = '917.jpg';
+	img.src = 'https://doc-04-7k-docs.googleusercontent.com/docs/securesc/ha0ro937gcuc7l7deffksulhg5h7mbp1/qpukg9fbjs6insonhp8v6hv8fe7js4m7/1536696000000/11430616509967510862/*/1iTPkSAJpETHpjktlPHN_KMb-2YSrwZyH';
 	img.onload = function() {
 		setTimeout(function() { document.body.classList.remove('loading');}, 1000);
 
