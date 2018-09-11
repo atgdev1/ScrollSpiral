@@ -16,7 +16,7 @@
 
 	// Loading a texture
 	var img = new Image();
-	img.src = 'img/img4.jpg';
+	img.src = '917.jpg';
 	img.onload = function() {
 		setTimeout(function() { document.body.classList.remove('loading');}, 1000);
 
